@@ -1,3 +1,6 @@
+// 30분
+// 1sol
+
 function solution(s) {
     var answer = 0;
     let minLen = Number.MAX_SAFE_INTEGER;
