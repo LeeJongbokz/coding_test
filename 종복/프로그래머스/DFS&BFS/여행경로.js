@@ -1,3 +1,6 @@
+// 25분
+// 2sol
+
 function solution(tickets) {
     var answer = [];
     let used = new Array(tickets.length).fill(false);
